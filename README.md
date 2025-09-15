@@ -2,4 +2,4 @@
 
 Title: Ali's Homepage
 
-Desription: Bookmark this to keep an eye on my project updates!
+Description: Bookmark this to keep an eye on my project updates!
