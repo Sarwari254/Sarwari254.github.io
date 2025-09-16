@@ -2,4 +2,4 @@
 
 Title: Ali's Homepage
 
-Description: Bookmark this to keep an eye on my project updates!
+Description: Welcome to the Homepage. 
